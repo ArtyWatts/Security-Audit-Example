@@ -33,7 +33,9 @@ When I was getting my Google Cybersecurity Professional Certificate, I was taske
 ![Screenshot (28)](https://github.com/ArtyWatts/Security-Audit-Example/assets/141881183/b13ddc38-1076-4abd-93e6-c99f16df2e50)
 
 <p align="center"> 
- <b>I researched compliance taking "Botium Toys" business practices and infrastructure into account</b>
+ <b>I researched compliance taking "Botium Toys" business practices and infrastructure into account (they only have one physical location in the US but conduct a lot of online business
+ and want to expand to the European Union.)
+ </b>
   
 ![Screenshot (29)](https://github.com/ArtyWatts/Security-Audit-Example/assets/141881183/3fc0e3d4-4751-4d92-9141-6d77b4ba2705)
 
@@ -58,7 +60,7 @@ When I was getting my Google Cybersecurity Professional Certificate, I was taske
 ![Screenshot (33)](https://github.com/ArtyWatts/Security-Audit-Example/assets/141881183/532cde8f-5e13-4a8a-8657-30dd618ebdd2)
 
 <p align="center"> 
- <b>In the last step I summarized my findings in a memorandum, communicated them to the stakeholders and gave recommendations</b>
+ <b>In the last step I summarized my findings in a memorandum, communicated them to the stakeholders and gave recommendations.</b>
   
 ![Screenshot (34)](https://github.com/ArtyWatts/Security-Audit-Example/assets/141881183/d481136b-5c3b-4c31-a724-7e2de7af4a64)
 
