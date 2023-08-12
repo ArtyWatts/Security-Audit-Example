@@ -3,7 +3,8 @@
 
 
 <h2>Description</h2>
-When I was getting my Google Cybersecurity Professional Certificate, I was tasked with completing a Security Audit. The audit is simulated and includes an organization called "Botium Toys".
+Completing a small simulated security audit. Scenario: I work at an organization called "Botium Toys". The IT-Manager has sent me an E-mail regarding the security posture of the organisation.
+I was tasked to assess compliance and give recommendations about asset security.
 <br />
 
 
